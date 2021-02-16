@@ -2,8 +2,11 @@
 
 
 
-Big data analysis using spark on NYC opendData. Visualizations using python libraries have also been used for better visual understanding of the analysis 
+Big data analysis using spark on NYC opendData. In this notebook, I am capriciously using Spark, Pandas, Matplotlib, Seaborn without any meaningful distinction of purpose. The point is:
 
+1- Perform data reading, transforming, and querying using Apache Spark.
+
+2- Visualize using existing Python libraries. Matplotlib will remain when I know to do with it all that I'm currenly using Seaborn for.
 
 Prerequisities:
 
