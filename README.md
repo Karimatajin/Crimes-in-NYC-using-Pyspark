@@ -8,5 +8,7 @@ Big data analysis using spark on NYC opendData. Visualizations using python libr
 Prerequisities:
 
 1- Installation of Pyspark on the local machine.
+
 2- Download data from https://data.cityofnewyork.us/browse?tags=crime
+
 3- Open the jupyter notebook and run the cells, after updating the correct file path.
